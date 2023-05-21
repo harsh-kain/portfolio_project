@@ -9,4 +9,4 @@ which technology I used to create this project
 -- CSS
 Currently, I'm using only these because I design this project for an intership but I will continue this project with some latest technology like REACT JS.
 
-Thanks to OASIS INFOBYTE
+Thanks to codeClause
